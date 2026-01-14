@@ -1,4 +1,4 @@
-# Finstreet# 
+# Finstreet
 Algorithmic Trading System - SONATA Stock
 
 Machine learning-based trading strategy using Random Forest for directional prediction of SONATA stock movements.
